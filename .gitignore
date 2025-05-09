@@ -1,0 +1,8 @@
+# Ignore system and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+waveshare-env/
+*.egg-info/
